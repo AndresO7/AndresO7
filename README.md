@@ -21,13 +21,7 @@
 
 ###
 
-<h2 align="left">Hi👋 my name is Andres Ortiz, and I am passionate about web development.😸</h2>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=AndresO7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
-</div>
+<h2 align="center">Hi👋 i'm Andres Ortiz</h2>
 
 ###
 
@@ -40,6 +34,16 @@
 ###
 
 <p align="left">😀 You are welcome to check out my github projects.<br>🤔 Find out about programming.<br>😱 Contribute ideas to my projects.<br>💅 Modern interfaces.<br>🌔 Apps with dark themes.</p>
+
+###
+
+<h3 align="left">Stats 🔥</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=AndresO7&locale=en&mode=weekly&theme=dark&hide_border=true&border_radius=5" height="156" alt="streak graph"  />
+</div>
 
 ###
 
