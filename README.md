@@ -3,8 +3,17 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=AndresO7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=AndresO7&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=AndresO7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
+
+<img align="right" height="150" src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif"  />
+
+###
+
+<p align="left">😀 You are welcome to check out my github projects.<br>🤔 Find out about programming.<br>😱 Contribute ideas to my projects.<br>💅 Modern interfaces.<br>🌔 Apps with dark themes.</p>
 
 ###
 
@@ -16,16 +25,6 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="linkedin logo"  />
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="32" alt="facebook logo"  />
 </div>
-
-###
-
-<p align="left">😀 You are welcome to check out my github projects.<br>🤔 Find out about programming.<br>😱 Contribute ideas to my projects.<br>💅 Modern interfaces.<br>🌔 Apps with dark themes.</p>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://media.tenor.com/bhh8ONgUSjYAAAAi/anime.gif"  />
 
 ###
 
